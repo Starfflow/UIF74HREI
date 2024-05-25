@@ -1,5 +1,7 @@
 # ИНЦИДЕНТ: КОМПРОМЕТАЦИЯ УЧЕТНОЙ ЗАПИСИ WINDOWS
 
+![КомпрометацияУЗWIndows](https://github.com/Starfflow/playbooks_runbooks/assets/117627394/05f07c37-5d83-4864-9cd9-8bbed93f16b3)
+
 ---
 
 ## ПОДГОТОВКА
